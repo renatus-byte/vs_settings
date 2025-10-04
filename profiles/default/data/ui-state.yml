@@ -2,11 +2,10 @@ workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":t
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
-  npm:showScriptExplorer\"},{\"when\":\"clangd.typeHierarchyVisible\"},{\"when\
-  \":\"clangd.memoryUsage.hasData\"},{\"when\":\"clangd.ast.hasData\"}]},{\"id\
-  \":\"workbench.view.search\",\"themeIcon\":{\"id\":\"search-view-icon\"},\"na\
-  me\":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.view.s\
-  cm\",\"themeIcon\":{\"id\":\"source-control-view-icon\"},\"name\":\"Source
+  npm:showScriptExplorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\
+  \"id\":\"search-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\"\
+  :[{}]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-control-\
+  view-icon\"},\"name\":\"Source
   Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
   scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
   scm.historyProviderCount !=
@@ -59,14 +58,13 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   rchMcpServers\"}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\":{\
   \"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\"views\":\
   [{\"when\":\"testing.providerCount >
-  0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
-  ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
-  erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
-  \"}]},{\"id\":\"workbench.view.extension.cmake-view\",\"iconUrl\":{\"$mid\":1,\
-  \"path\":\"%%EXTENSION_DATA_PATH%%/kylinideteam.kylin-cmake-tools-0.0.4-unive\
-  rsal/res/cmake-view-icon2.svg\",\"scheme\":\"file\"},\"name\":\"CMake\",\"isB\
-  uiltin\":false,\"views\":[{\"when\":\"cmake:enableFullFeatureSet\"},{\"when\":\
-  \"cmake:enableFullFeatureSet\"},{\"when\":\"cmake:enableFullFeatureSet\"}]}]"
+  0\"},{\"when\":\"testing.isTestCoverageOpen\"},{\"when\":\"testExplorerVisible\
+  \"}]},{\"id\":\"workbench.view.extension.references-view\",\"themeIcon\":{\"id\
+  \":\"references\"},\"name\":\"References\",\"isBuiltin\":false,\"views\":[{\"\
+  when\":\"reference-list.isActive\"}]},{\"id\":\"workbench.view.extension.cmak\
+  e-view\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/kylinidet\
+  eam.kylin-cmake-tools-0.0.4-universal/res/cmake-view-icon2.svg\",\"scheme\":\
+  \"file\"},\"name\":\"CMake\",\"isBuiltin\":false,\"views\":[]}]"
 workbench.activityBar.location: default
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
 workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":100}]'

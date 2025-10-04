@@ -1,20 +1,24 @@
 disabled:
   - id: MS-CEINTL.vscode-language-pack-zh-hans
     uuid: 00000000-0000-0000-0000-000000000000
+  - id: KylinIdeTeam.cmake-intellisence
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: KylinIdeTeam.kylin-cpp-pack
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: KylinIdeTeam.kylin-clangd
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: KylinIdeTeam.kylin-cmake-tools
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
 enabled:
   - id: Catppuccin.catppuccin-vsc
     uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
   - id: Catppuccin.catppuccin-vsc-icons
     uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
-  - id: KylinIdeTeam.cmake-intellisence
-    uuid: b02fa3e5-06d4-4aad-8dbb-fe54a1cc58f9
-  - id: KylinIdeTeam.kylin-clangd
-    uuid: 989a5619-dfeb-48de-a4ea-849ae1f1fa89
-  - id: KylinIdeTeam.kylin-cmake-tools
-    uuid: b83703ef-ad83-4e08-8c01-463e1ea145ff
-  - id: KylinIdeTeam.kylin-cpp-pack
-    uuid: 6457d60c-b10c-4a6d-b79a-12c7fe7504e8
-  - id: redhat.vscode-yaml
-    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
+  - id: hbenl.vscode-test-explorer
+    uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
+  - id: ms-vscode.test-adapter-converter
+    uuid: 47210ec2-0324-4cbb-9523-9dff02a5f9ec
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
