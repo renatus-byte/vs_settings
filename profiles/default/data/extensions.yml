@@ -1,24 +1,42 @@
 disabled:
   - id: MS-CEINTL.vscode-language-pack-zh-hans
     uuid: 00000000-0000-0000-0000-000000000000
-  - id: KylinIdeTeam.cmake-intellisence
+  - id: hbenl.vscode-test-explorer
     uuid: 00000000-0000-0000-0000-000000000000
-  - id: KylinIdeTeam.kylin-cpp-pack
+  - id: ms-vscode.test-adapter-converter
     uuid: 00000000-0000-0000-0000-000000000000
-  - id: KylinIdeTeam.kylin-clangd
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: KylinIdeTeam.kylin-cmake-tools
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: redhat.vscode-yaml
-    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
 enabled:
+  - id: AuxisLabs.python-uv-toolkit
+    uuid: 8555d862-ebe7-42fa-b2bd-f517cae64331
   - id: Catppuccin.catppuccin-vsc
     uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
   - id: Catppuccin.catppuccin-vsc-icons
     uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
-  - id: hbenl.vscode-test-explorer
-    uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
-  - id: ms-vscode.test-adapter-converter
-    uuid: 47210ec2-0324-4cbb-9523-9dff02a5f9ec
+  - id: KylinIdeTeam.cmake-intellisence
+    uuid: b02fa3e5-06d4-4aad-8dbb-fe54a1cc58f9
+  - id: KylinIdeTeam.kylin-clangd
+    uuid: 989a5619-dfeb-48de-a4ea-849ae1f1fa89
+  - id: KylinIdeTeam.kylin-cmake-tools
+    uuid: b83703ef-ad83-4e08-8c01-463e1ea145ff
+  - id: KylinIdeTeam.kylin-cpp-pack
+    uuid: 6457d60c-b10c-4a6d-b79a-12c7fe7504e8
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-python-envs
+    uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-keymap
+    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-toolsai.vscode-jupyter-cell-tags
+    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
+  - id: ms-toolsai.vscode-jupyter-slideshow
+    uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
